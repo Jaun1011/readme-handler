@@ -1,4 +1,4 @@
-# swisscom-building-dashboard
+# dashboard
 
 ## Project setup
 ```
